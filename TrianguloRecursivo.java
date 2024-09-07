@@ -1,4 +1,11 @@
 /**
+# Autor: Jonathan Hernández
+# Fecha: 04 Septiembre 2024
+# Descripción: Código para simulacion de el triangulo recursivo de Sierpinski
+# GitHub: https://github.com/Jona163
+*/
+
+/**
  * Triángulo de Sierpinski con recursividad y un toque de estilo gráfico.
  * @author Jony
  */
